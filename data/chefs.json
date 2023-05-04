@@ -3,48 +3,60 @@
         "id": 1,
         "photo": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Massimo Bottura",
-        "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "experience": 15,
+        "recipes": 45,
+        "likes": 3501,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     },
     {
         "id": 2,
         "photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
-        "name": "Massimo Bottura",
-        "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "name": "Gualtiero Marchesi",
+        "experience": 30,
+        "recipes": 25,
+        "likes": 2010,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     },
     {
         "id": 3,
         "photo": "https://images.unsplash.com/photo-1558138838-76294be30005?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Massimo Bottura",
+        "name": "Bruno Barbieri",
         "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "recipes": 50,
+        "likes": 6041,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     },
     {
         "id": 4,
         "photo": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Massimo Bottura",
-        "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "name": "Alessandro Borghese",
+        "experience": 21,
+        "recipes": 41,
+        "likes": 7001,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     },
     {
         "id": 5,
         "photo": "https://images.unsplash.com/photo-1625631980634-397b9e9a73f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Massimo Bottura",
-        "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "name": "Cristina Bowerman",
+        "experience": 34,
+        "recipes": 65,
+        "likes": 4211,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     },
     {
         "id": 6,
         "photo": "https://plus.unsplash.com/premium_photo-1663011717609-fbbabf6d6513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Massimo Bottura",
-        "experience": 25,
-        "recipes": 5,
-        "likes": 201
+        "name": "Gualtiero Marchesi",
+        "experience": 28,
+        "recipes": 41,
+        "likes": 245,
+        "description": "The Italian National Chefs' Team (NIC) on Friday won the senior category of the Global Chef Challenge in Dubai beating Sweden and Singapore. Italy also got two second places: in the junior category, with young chef Giorgia Ceccato, and the pastry category, with Antonio Dell'Oro and Luca Bnà.",
+        "list_recipe": ["pizza", "pasta", "lasagna", "tiramisu"]
     }
 ]
